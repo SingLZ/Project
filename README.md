@@ -1,13 +1,13 @@
 # Project
 IOS application of Hangry Joe
 
-#Table of Contents
+# Table of Contents
 1. Overview
 2. Product Spec
 3. Wireframes
 4. Schema
 
-#Overview
+# Overview
 Description
 [Description of your app]
 
@@ -21,7 +21,7 @@ Market:
 Habit:
 Scope:
 
-#Product Spec
+# Product Spec
 1. User Stories (Required and Optional)
 Required Must-have Stories
 
@@ -51,13 +51,13 @@ Flow Navigation (Screen to Screen)
 [list second screen here]
 [list screen navigation here]
 ...
-#Wireframes
+# Wireframes
 [Add picture of your hand sketched wireframes in this section] [Add picture of your hand sketched wireframes in this section]
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
 
-#Schema
+# Schema
 [This section will be completed in Unit 9]
 
 Models
