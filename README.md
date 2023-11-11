@@ -14,9 +14,8 @@
 
 ### Description
 
-[Hangry Joe’s is a fried chicken restuarnt where people order food. This app could allow people to order food online and get notices of coupons. Earn points for rewards and navaigate menu.
+Hangry Joe’s is a fried chicken restuarnt where people order food. This app could allow people to order food online and get notices of coupons. Earn points for rewards and navaigate menu.
 
-]
 
 ### App Evaluation
 
