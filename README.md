@@ -18,11 +18,11 @@
 
 ### App Evaluation
 
-Mobile: Having a Mobile version will enchance user experiences because customers would be able to recieve real time notification on when their order is ready. There can also be maps to show user closest store location.
-Story: I am currently working at Hangry as a part-time and many customers ask if we have an app or some sort that they can keep track of their order or earn points etc. I think if there is something like that it would make ordering easier.
-Market: This app have a pretty large market since anyone can order food online. Hangry Joe is a fried chicken restuarant so anyone who is interest could possibly be the audience,
-Habit: Users would only comsume from this app since its main purpose is to take orders. It could develope habits for user if they order from here often, but it is not addictive in a way that a person would open this app everyday.
-Scope: It is challenging to complete the app within a short amount of time, but I think basic features can be implemented without much complication.
+- Mobile: Having a Mobile version will enchance user experiences because customers would be able to recieve real time notification on when their order is ready. There can also be maps to show user closest store location.
+- Story: I am currently working at Hangry as a part-time and many customers ask if we have an app or some sort that they can keep track of their order or earn points etc. I think if there is something like that it would make ordering easier.
+- Market: This app have a pretty large market since anyone can order food online. Hangry Joe is a fried chicken restuarant so anyone who is interest could possibly be the audience,
+- Habit: Users would only comsume from this app since its main purpose is to take orders. It could develope habits for user if they order from here often, but it is not addictive in a way that a person would open this app everyday.
+- Scope: It is challenging to complete the app within a short amount of time, but I think basic features can be implemented without much complication.
 
 
 
