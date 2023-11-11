@@ -33,13 +33,15 @@ Hangry Joe’s is a fried chicken restuarnt where people order food. This app co
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Users are able to view menu
+* Users are able to add items to cart
+* Users can delete items from cart
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Users earn points per order
+* Users can look for locations of restaurant
+* Users can add comments for each item on the menu
 
 ### 2. Screen Archetypes
 
