@@ -70,8 +70,7 @@ Hangry Joe’s is a fried chicken restuarnt where people order food. This app co
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="[YOUR_WIREFRAME_IMAGE_URL](https://app.gemoo.com/share/image-annotation/582052141341388800?codeId=v6gVJdZdylyyy&origin=imageurlgenerator&card=582052140502528000)" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
