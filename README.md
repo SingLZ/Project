@@ -45,29 +45,28 @@ Hangry Joe’s is a fried chicken restuarnt where people order food. This app co
 
 ### 2. Screen Archetypes
 
-- [ ] [list first screen here]
-* [list associated required story here]
-* ...
-list second screen here]
-* [list associated required story here]
-* ...
+- Menu Screen
+* users can browse items
+* users can select items
+- Shopping cart Screen
+* users can browse their cart
+* users can delete items from cart
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Menu
+* Cart
+* Profile (for future reference)
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [list first screen here]
-* [list screen navigation here]
-* ...
-- [ ] [list second screen here]
-* [list screen navigation here]
-* ...
+- Menu
+* detail item screen
+- Cart
+* detail item screen
+
 
 ## Wireframes
 
