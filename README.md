@@ -12,6 +12,8 @@
 
 ## Overview
 
+[![Video Title](http://img.youtube.com/vi/nr_CVxQsW5E/0.jpg)](http://www.youtube.com/watch?v=nr_CVxQsW5E)
+
 ### Description
 
 Hangry Joe’s is a fried chicken restuarnt where people order food. This app could allow people to order food online and get notices of coupons. Earn points for rewards and navaigate menu.
@@ -31,7 +33,7 @@ Hangry Joe’s is a fried chicken restuarnt where people order food. This app co
 
 ### 1. User Stories (Required and Optional)
 
-**Required Must-have Stories**
+**Required Must-have Stories** (new user stories added)
 
 - [✓] Users are able to view menu
 - [✓] Users can navigate to cart screen
