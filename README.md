@@ -80,7 +80,7 @@ Hangry Joe’s is a fried chicken restuarnt where people order food. This app co
 
 ## Schema 
 
-[This section will be completed in Unit 9]
+Run within Xcode
 
 ### Models
 
