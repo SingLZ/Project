@@ -15,7 +15,7 @@
 [![Video Title](http://img.youtube.com/vi/nr_CVxQsW5E/0.jpg)](http://www.youtube.com/watch?v=nr_CVxQsW5E)
 
 #2
-[![Video Title](http://img.youtube.com/vi/nr_CVxQsW5E/0.jpg)](http://www.youtube.com/watch?v=nr_CVxQsW5E)
+[![Video Title](http://img.youtube.com/vi/o9a2BZXI-aY/0.jpg)](http://www.youtube.com/watch?v=o9a2BZXI-aY)
 
 ### Description
 
